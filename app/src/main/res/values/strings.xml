@@ -1,0 +1,8 @@
+<resources>
+    <string name="app_name">samsung_project</string>
+    <string name="create_group" />
+    <string name="title_activity_recipe_details">Инструкция</string>
+    <string name="name_hint">Введите название</string>
+    <string name="recipe_hint">Введите рецепт</string>
+    <string name="recipe_cookie">1. Beat eggs and sugar.\n2. Add soft butter to the egg-sugar mixture and mix.\n3. We extinguish the soda.\n4. Stir in the sifted flour.\n5. Place the resulting dough in the refrigerator for 20 minutes.\n6. Roll out the dough to a thickness of 5–7 mm.\n7. Bake for 12–15 minutes at 180 degrees.</string>
+</resources>
